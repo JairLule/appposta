@@ -1,0 +1,8 @@
+{
+  "name": "appposta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "b4d389d7"
+}
